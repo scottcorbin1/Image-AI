@@ -19,4 +19,4 @@ Using the Program
 Using the program is very simple. It will show you 9 images on the screen and at the top it will ask you to select a specific category of image. Simply click the image or images you believe to be correct. When you click to select an image the outline will become green, to deselect just click the image again and the green outline will go away. Once you are satisfied with your selections click the done button at the bottom of the screen and it will tell you how right you were with your selections. At this point you can click the continue button or end button. The end button will terminate the program. The continue button will take you back to the starting screen and you will be prompted to select an image or images or a specific category again. 
 If at any point you wish to quit and you are not on the screen with the end button then just click the x at the upper right corner of the window. 
 
- 
+Contributors: Noah Hamm, Scott Corbin, Joseph Delcastillo III 
